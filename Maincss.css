@@ -1,0 +1,33 @@
+@charset "utf-8";
+footer {
+	position: float;
+	width: 100%;
+	bottom: 1em;
+	bottom: 0px;
+	font-size: 24px;
+	text-align: left;
+}
+.floatRight {float:right}body {
+	padding: 1em;
+	background-color: #071FAF;
+	color: #DCDCDC;
+	font-size: 24px;
+	text-align: center;
+}
+body h2 nav {
+	color: #FF0004;
+	background-color: #2629AB;
+	text-align: center;
+}
+a:link {
+	color: #000000;
+}
+a:visited {
+	color: #8500C8;
+}
+a:active {
+	color: #EB1115;
+}
+nav {width:60%;
+}
+.floatLeft{float:left;}
